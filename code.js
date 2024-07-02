@@ -1,0 +1,5 @@
+num1 = prompt("Primeiro numero")
+num2 = prompt("Segundo numero")
+num3 = prompt("Terceiro numero")
+num4 = prompt("Quarto numero")
+num5 = prompt("Quinto numero")
