@@ -13,3 +13,22 @@ if (num1 % 5 == 0){
 if (num1 % 3 == 0 && num1 % 5 == 0){
     console.log("fizzbuzz")
 }
+
+
+if (num2 % 3 == 0){
+    console.log("fizz")
+}
+if (num2 % 5 == 0){
+    console.log("buzz")
+}
+if (num2 % 3 == 0 && num2 % 5 == 0){
+    console.log("fizzbuzz")
+}
+
+
+
+
+
+
+
+
