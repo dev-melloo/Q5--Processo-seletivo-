@@ -26,6 +26,20 @@ if (num2 % 3 == 0 && num2 % 5 == 0){
 }
 
 
+if (num3 % 3 == 0){
+    console.log("fizz")
+}
+if (num3 % 5 == 0){
+    console.log("buzz")
+}
+if (num3 % 3 == 0 && num3 % 5 == 0){
+    console.log("fizzbuzz")
+}
+
+
+
+
+
 
 
 
