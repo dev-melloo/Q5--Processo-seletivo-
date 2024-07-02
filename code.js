@@ -47,6 +47,16 @@ if (num4 % 3 == 0 && num4 % 5 == 0){
     console.log("fizzbuzz")
 }
 
+if (num5 % 3 == 0){
+    console.log("fizz")
+}
+if (num5 % 5 == 0){
+    console.log("buzz")
+}
+if (num5 % 3 == 0 && num5 % 5 == 0){
+    console.log("fizzbuzz")
+}
+
 
 
 
